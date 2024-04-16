@@ -1,0 +1,24 @@
+.font-answer{
+    color: rgba(92, 0, 80, 0.6);
+    font-size: smaller;
+    font-weight: 600;
+}
+
+.background {
+  background: rgb(247, 228, 244);
+  background-image: url(../../assets/images/background-pattern-desktop.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+img.my-2:hover{
+  cursor: pointer;
+}
